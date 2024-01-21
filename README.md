@@ -4,7 +4,7 @@ Repository is dedicated to the investment analysis, investment decisions and str
 
 ```📊 Investment analysis``` ```⚖️ Company Valuation``` ```💸 Venture Capital``` ```🛒 M&A``` ```🦄 Startup Ventures``` ```📈 Portfolio Performance```
 
-## Fundamentals of Investment Analysis
+## 📊 Fundamentals of Investment Analysis
 
 ```1.1 Excel Practice Core.xlsx``` - PV, PF, NPV, IRR, perpetuity
 
@@ -12,7 +12,7 @@ Repository is dedicated to the investment analysis, investment decisions and str
 
 ```1.3 Excel_Time value of Money.xlsx``` - NPV & IRR, bonds, discounting
 
-## Company Valuation
+## ⚖️ Company Valuation
 
 ```5.0.1 Comps Avito 2023.xlsx``` - Comparable company analysis for Avito 2023
 
