@@ -2,7 +2,7 @@
 
 Repository is dedicated to the investment analysis, investment decisions and strategies. It covers core analytical tools considered ‘industry standard’ in corporate finance and the asset management business. 
 
-```Investment analysis``` ``` Company Valuation``` ```Venture Capital``` ```M&A``` ```Startup Ventures``` ```Portfolio Performance```
+```📊 Investment analysis``` ```⚖️ Company Valuation``` ```💸 Venture Capital``` ```🛒 M&A``` ```🦄 Startup Ventures``` ```📈 Portfolio Performance```
 
 ## Fundamentals of Investment Analysis
 
