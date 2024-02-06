@@ -26,3 +26,9 @@ Repository is dedicated to the investment analysis, investment decisions and str
 
 ``` 3.1 WACC MTS.xlsx``` -  WACC, CAPM, Regression Analysis for MTS
 
+``` 3.2 Pharmaceuticals Beta Unlevered.xlsx``` -  Unleveraged beta for Valenta Farmatsevtika AO
+
+## 📽 Elavuation of Capital Investment Projects
+
+``` 4.1 Spreadsheet Modeling.xlsx``` -  DCF Model for Lawton
+
