@@ -29,8 +29,10 @@ Repository is dedicated to the investment analysis, investment decisions and str
 ``` 3.2 Pharmaceuticals Beta Unlevered.xlsx``` -  Unleveraged beta for Valenta Farmatsevtika AO
 
 ``` 3.3 Regression Beta.xlsx``` -  Finding beta based on linear regression
+``` 3.4 Investment Risks and Returns_ Practice Problems.xlsx``` -  WACC, CAPM, etc...
 
 ## 📽 Elavuation of Capital Investment Projects
 
 ``` 4.1 Spreadsheet Modeling.xlsx``` -  DCF Model for Lawton
+
 
